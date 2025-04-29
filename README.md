@@ -6,7 +6,7 @@
 ### 👋 Hi there, I'm **Tham Khang**
 
 💻 I'm a developer with a strong interest in technology, currently exploring my path to becoming a **Fullstack Developer**.  
-🔍 I understand the basics of **Python**, **React**, and **Node.js**, and I rely heavily on researching and learning as I build.  
+<!--🔍 I understand the basics of **Python**, **React**, and **Node.js**, and I rely heavily on researching and learning as I build.  -->
 🎯 My goal is to grow steadily in software development and problem solving.  
 🌐 Portfolio: [https://thamkhang.github.io/](https://thamkhang.github.io/)  
 📫 Contact: [thamkhang2003@gmail.com](mailto:thamkhang2003@gmail.com)
